@@ -1,16 +1,7 @@
-# todo
+# Task Bucket App
 
-A new Flutter project.
+Demo video and images
+https://github.com/user-attachments/assets/14cf6bad-735f-48c1-a1f3-e1d53cc062af
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Overview
+Task Bucket is a simple and efficient to-do list application built with Flutter. It allows users to create, view, and manage their tasks while ensuring data persistence using Shared Preferences. The app features a clean and intuitive interface designed with Material Design principles.
